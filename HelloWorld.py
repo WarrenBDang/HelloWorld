@@ -1,6 +1,6 @@
 # Programming 101
 #
-# Integrated Development Environmen (IDE)
+# Integrated Development Environment (IDE)
 #
 
 
