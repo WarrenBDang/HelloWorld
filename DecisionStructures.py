@@ -1,3 +1,4 @@
+# Definitions/Declarations
 def ifStatement():
     answer = input("Type y or n ")
     if answer == "y":
@@ -16,15 +17,17 @@ def whileStatement():
     return
 
 def forStatement():
+    listA = ["apple", "orange", "banana", "avacado"]
+    for items in listA:
+        print(items)
     return
 
 def main():
     # ifStatement()
-    whileStatement()
-    forStatement()
+    # whileStatement()
+    # forStatement()
     return
 
-
-
 ######################
+
 main()
